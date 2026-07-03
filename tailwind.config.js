@@ -11,6 +11,7 @@ export default {
           "-apple-system",
           "sans-serif",
         ],
+        devanagari: ['"Rozha One"', "serif"],
       },
       perspective: {
         1500: "1500px",
