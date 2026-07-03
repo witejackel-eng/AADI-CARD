@@ -201,11 +201,11 @@ export default function BusinessCard3D() {
             {/* Editorial mark: bold Devanagari graphic in the empty center-right canvas */}
             <div className="pointer-events-none absolute inset-x-5 top-12 bottom-20 flex items-center justify-end sm:inset-x-9 sm:top-20 sm:bottom-24">
               <div className="text-right">
-                <p className="font-devanagari leading-none text-black text-4xl sm:text-7xl">
-                  &#2325;&#2371;&#2359;&#2381;&#2339;
+                <p className="font-devanagari leading-none text-black text-2xl sm:text-5xl">
+                  &#2332;&#2351; &#2358;&#2381;&#2352;&#2368; &#2325;&#2371;&#2359;&#2381;&#2339;
                 </p>
-                <p className="mt-1 text-[6px] font-medium uppercase tracking-[0.35em] text-black/60 sm:mt-2.5 sm:text-[10px] sm:tracking-[0.55em]">
-                  ( Krishna )
+                <p className="mt-1.5 text-[6px] font-medium uppercase tracking-[0.35em] text-black/60 sm:mt-2.5 sm:text-[10px] sm:tracking-[0.5em]">
+                  ( Jai Shri Krishna )
                 </p>
               </div>
             </div>
