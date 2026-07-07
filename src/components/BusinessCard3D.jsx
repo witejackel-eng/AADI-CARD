@@ -5,8 +5,8 @@ const MAX_TILT_DESKTOP = 20; // degrees, per the spec
 const MAX_TILT_MOBILE = 9; // gentler on small/touch viewports so nothing clips
 
 const CONTACTS = [
-  { label: "GitHub", handle: "witejackel-eng" },
-  { label: "Email", handle: "witejackel@gmail.com" },
+  { label: "GitHub", handle: "hello-aditya-dev" },
+  { label: "Email", handle: "hi.aditya.dev@gmail.com" },
   { label: "Phone", handle: "+91 93107 36542" },
 ];
 
